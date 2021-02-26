@@ -40,7 +40,7 @@ Structural Patterns
 References
 ---
 * Gamma, E. et al. Design Patterns: Elements of Reusable Object-Oriented Software, Addison-Wesley, 1994
-* Hiroshi Yuki. Learning Design Patterns in Javascript [In Japanese Language], Softbank publishing, 2004
+* Hiroshi Yuki. Learning Design Patterns in Javas [In Japanese Language], Softbank publishing, 2004
 
 Links
 ---
